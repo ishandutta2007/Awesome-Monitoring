@@ -52,9 +52,9 @@ Below is a detailed comparison of top commercial observability platforms sorted 
 
 Open-source projects form the backbone of modern observability, enabling organizations to avoid vendor lock-in and retain full data control.
 
-Below are top open-source monitoring engines, time-series databases, log collectors, and tracing tools sorted by GitHub Star Count (descending):
+Below are top open-source monitoring engines, time-series databases, log collectors, and tracing tools sorted by GitHub Stars_Count (descending):
 
-| Project 📦 | GitHub Stars ⭐ | Primary Focus / Category 🎯 | Description 📝 |
+| Project 📦 | GitHub_Stars ⭐ | Primary Focus / Category 🎯 | Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[Grafana](https://github.com/grafana/grafana)** 📊 | [![Grafana Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Visualization & Dashboarding | The premier open-source visualization suite supporting Prometheus, Loki, Elasticsearch, Postgres, and 100+ data sources. |
 | **[Prometheus](https://github.com/prometheus/prometheus)** 🔥 | [![Prometheus Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers) | Metrics & Alerting | CNCF graduated de-facto standard time-series collection engine with PromQL query language. |
@@ -90,7 +90,7 @@ Contributions are warmly welcomed! Please follow these simple guidelines:
 
 1. 🍴 Fork the repository.
 2. 📝 Add or edit entries in `README.md` maintaining table formats.
-3. 🔎 Ensure factual descriptions, official links, accurate pricing, and star count badges.
+3. 🔎 Ensure factual descriptions, official links, accurate pricing, and Stars_Count badges.
 4. 🚀 Open a Pull Request with a short summary of changes.
 
 ---
@@ -109,7 +109,7 @@ Thank you so much for using and supporting this awesome monitoring project! If y
 ## ⚠️ Disclaimer
 
 - This repository is a **community-curated list** created for informational and educational purposes.
-- SaaS prices, valuations, and open-source star counts change over time. Please verify directly on official project homepages.
+- SaaS prices, valuations, and open-source Stars_Counts change over time. Please verify directly on official project homepages.
 - Monitoring architectures process operational telemetry; verify compliance (GDPR, SOC2, HIPAA) before routing production data.
 
 ---
